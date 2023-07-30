@@ -1,5 +1,5 @@
 # ToFnLED
-ToF sensor + RGB LED
+ToF sensor + RGBW LED
 
-![ToFnLED_Sch](https://github.com/banoz/ToFnLED/blob/main/Project/Exports/ToFnLED_Sch.png)
-![ToFnLED_Top](https://github.com/banoz/ToFnLED/blob/main/Project/Exports/ToFnLED_Top.png)
+![ToFnLED_Sch](https://github.com/jephilp/ToFnLED/ToFnLED/schematic.pdf)
+![ToFnLED_Top](https://github.com/jephilp/ToFnLED/ToFnLED/ToFnLED.png)
